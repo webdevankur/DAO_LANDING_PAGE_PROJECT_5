@@ -9,6 +9,7 @@ body{
     background-size: cover;
     background-position-y: -130px;
 }
+/* NAVBAR SECTION */
 
 .navbar{
        display: flex;
@@ -40,6 +41,7 @@ body{
     background-color: #ba0cc5;
     font-family: 'Poppins', sans-serif;
 }
+/* HERO SECTION  */
 
 .hero{
     display: flex;
